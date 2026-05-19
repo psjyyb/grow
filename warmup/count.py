@@ -8,3 +8,5 @@ char_count = len(text)
 print(f"파일: {filename}")
 print(f"- 줄 수: {line_count}")
 print(f"- 글자 수: {char_count}")
+
+# 커밋 테스트
