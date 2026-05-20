@@ -7,8 +7,10 @@
 # Python 캐시
 __pycache__/
 *.pyc
+
 # Pycharm(IDE)설정
 .idea/
+
 # 운영체제 부산물(운영체제에서 자동 생성하는 쓰레기 파일)
 Thumbs.db
 .DS_Store
